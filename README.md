@@ -6,8 +6,8 @@ A simple and beautiful music player made in React Native using [React-Native-Tra
 
 
 
-![alt text](MyMusicSongDefaultScreen.jpg)
-
+![alt text](MyMusicSongDefaultScreen.jpg |width=100)
+![alt text](MyMusicSongListScreen.jpg |width=100)
 # Work for android Version Only
 In order to import your own songs, you need to set up a 'Music' Floder in the  'download' floder and move your songs inside the floder
 
