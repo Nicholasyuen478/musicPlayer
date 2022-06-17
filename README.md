@@ -4,11 +4,11 @@
 
 A simple and beautiful music player made in React Native using [React-Native-Track-Player](https://react-native-track-player.js.org)
 
+<div>
+<img src="MyMusicSongDefaultScreen.jpg" width="250">
 
-<img src="MyMusicSongDefaultScreen.jpg" width="100">
-
-<img src="MyMusicSongListScreen.jpg" width="100">
-
+<img src="MyMusicSongListScreen.jpg" width="250">
+</div>
 
 
 # Work for android Version Only
